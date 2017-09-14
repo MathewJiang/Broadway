@@ -1,0 +1,50 @@
+* {
+  font-family: helvetica;
+  text-align: center;
+  background-image: none;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h4 {
+  font-size: 18px;
+  color: white;
+  font-weight: normal;
+}
+
+h4 a {
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+  font-weight: normal;
+}
+
+h5 {
+  text-align: left;
+  font-size: 11px;
+  font-weight: normal;
+  color: white;
+  background-color: dimgray;
+}
+
+h5 a {
+  color: white;
+  text-align: left !important;
+  font-size: 18px;
+}
